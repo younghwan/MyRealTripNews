@@ -1,0 +1,2 @@
+rootProject.name='XmlParsingTest'
+include ':app'
